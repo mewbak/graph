@@ -1,4 +1,4 @@
-// package graph implements generic graph
+// Package graph implements generic graph
 package graph
 
 type Vertex interface{}
